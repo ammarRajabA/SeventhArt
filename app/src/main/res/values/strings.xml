@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seventh Art</string>
+
+    <string name="title_activity_imdb">Movie on IMDB</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_about">About Seventh Art</string>
+</resources>
